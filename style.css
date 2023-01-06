@@ -1,0 +1,41 @@
+/* Incomplete CSS */
+
+.board {
+    width: 500px;
+    height: 500px;
+    display: grid;
+}
+
+.pix {
+    background-color: gold;
+}
+
+div .pix:hover {
+    background-color: red;
+}
+
+/* 
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 300px;
+    min-height: 300px;
+    max-width: 600px;
+    max-height: 600px;
+    /* width: ;
+    height: ; 
+}*/
+
+html {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.container {
+    display: table;
+    margin: 0 auto;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
